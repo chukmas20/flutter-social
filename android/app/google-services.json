@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265752577119",
+    "project_id": "gramapp-c8b59",
+    "storage_bucket": "gramapp-c8b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265752577119:android:d63472b1084dd4988147ea",
+        "android_client_info": {
+          "package_name": "com.example.gram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265752577119-sacmnsdsr1t36jq25l9anrhc1rjv4km4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKgALXD1Mrth09OaQCtemBb-yQUPS1Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265752577119-sacmnsdsr1t36jq25l9anrhc1rjv4km4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
